@@ -1,2 +1,2 @@
 # DIU
-Prácticas Diseño de interfaces de usuario (UGR)
+Diseño de interfaces de usuario
